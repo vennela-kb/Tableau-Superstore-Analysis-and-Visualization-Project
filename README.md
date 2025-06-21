@@ -19,7 +19,7 @@ This project leverages **Tableau's visualization capabilities** to analyze the p
 
 ```
 superstore-tableau-analysis/
-│── 628_EM202421VEN1121PL_Updated.docx  # Project Documentation
+│── Tableau Superstore Analysis and Visualization Project.docx  # Project Documentation
 │── Superstore_new.twb                  # Initial Tableau Workbook (Unpackaged)
 │── superstore_part2.twbx               # Final Tableau Workbook (Packaged with Data)
 │── README.md                           # Project ReadMe File
